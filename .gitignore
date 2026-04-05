@@ -46,4 +46,4 @@ metals.sbt
 # Windows
 Thumbs.db
 
-.csv
+*.csv
